@@ -16,6 +16,7 @@ function App() {
       <TrainerSection />
       <PricingSection />
       <Footer />
+      <Add/>
     </div>
   );
 }
